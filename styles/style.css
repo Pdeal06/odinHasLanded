@@ -49,7 +49,7 @@ ul {
   justify-content: space-around;
   }
 
-.section2 {
+#section2 {
   display: flex;
 }
 
