@@ -47,9 +47,7 @@ ul {
 .header {
   display: flex;
   justify-content: space-around;
-  padding: 25px;
-    
-}
+  }
 
 .section2 {
   display: flex;
@@ -58,7 +56,11 @@ ul {
 .section1 {
   display: flex;
   justify-content: space-around;
-  padding: 25px;
+}
+
+h1,
+h4 {
+  margin: 0px;
 }
 
 
