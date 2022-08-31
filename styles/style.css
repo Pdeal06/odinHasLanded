@@ -84,9 +84,14 @@ a {
 
 .allImgAndText {
   display: flex;
-
+  gap: 85px;
 }
 
+#section2 img {
+  border-style: solid;
+  border-color: #3882f6;
+  border-radius: 10px;
+}
 
 
 
