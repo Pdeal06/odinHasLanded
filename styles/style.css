@@ -54,6 +54,8 @@ ul {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 90px;
+  gap: 45px;
 }
 
 .section1 {
@@ -91,6 +93,17 @@ a {
   border-style: solid;
   border-color: #3882f6;
   border-radius: 10px;
+}
+
+#section2 h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+  margin: 0;
+}
+
+#quoteSection {
+  background-color: #E5E7EB;
 }
 
 
