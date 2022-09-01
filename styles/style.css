@@ -60,8 +60,10 @@ ul {
 
 .section1 {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 100px 145px;
+  align-content: center;
+  gap: 100px;
 }
 
 h1,
