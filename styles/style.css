@@ -95,6 +95,7 @@ a {
   border-style: solid;
   border-color: #3882f6;
   border-radius: 10px;
+  border-width: thick;
 }
 
 #section2 h2 {
@@ -141,6 +142,7 @@ a {
   padding: 45px 125px;
   border-radius: 10px;
   gap: 100px;
+  color: #F9FAF8;
 }
 
 #callBox *{
